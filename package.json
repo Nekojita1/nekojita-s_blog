@@ -1,0 +1,19 @@
+{
+  "name": "nekojita-s_blog",
+  "version": "1.0.0",
+  "description": "Emmmm... 这里是 Nekojita。 这里是 Nekojita。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nekojita1/nekojita-s_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nekojita1/nekojita-s_blog/issues"
+  },
+  "homepage": "https://github.com/Nekojita1/nekojita-s_blog#readme"
+}
